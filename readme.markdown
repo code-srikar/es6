@@ -1,4 +1,4 @@
-#Updated by Srikar
+#Updated by Srikar   
 # ES6 Overview in 350 Bullet Points
 
 My [ES6 in Depth][39] series consists of 24 articles covering most syntax changes and features coming in ES6. This article aims to summarize all of those, providing you with practical insight into most of ES6, so that you can quickly get started. I've also linked to the articles in ES6 in Depth so that you can easily go deeper on any topic you're interested in.
